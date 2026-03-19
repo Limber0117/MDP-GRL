@@ -29,3 +29,8 @@ The dataset used in this model is a custom-built knowledge graph based on the pu
 The custom Medical Knowledge Graph dataset is located at `datasets/mimic/mimic_final_kg.txt`.  
 The training dataset can be found in `datasets/mimic/train1_patient.txt`.  
 The testing dataset can be found in `datasets/mimic/test1_patient.txt`.
+
+## Paper Information
+Guo, Yongan, Yeqi Huang, Yuao Wang, Yun Liu, Shenqi Jing, Tao Shan, Yuan Miao, and Bo Li. "MDP-GRL: Multi-disease Prediction by Graph-enabled Representation Learning." IEEE Journal of Biomedical and Health Informatics (2025).
+
+Your citation would be very much appreciated!
