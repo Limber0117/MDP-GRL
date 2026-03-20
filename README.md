@@ -1,12 +1,12 @@
 # MDP-GRL: Multi-disease Prediction by Graph-enabled Representation Learning
 ---
 
-Source code for MDP-GRL
+Source code for MDP-GRL published in the IEEE Journal of Biomedical and Health Informatics, 2025.
 
 ---
 
 ##  Requirements
-- python 3.7
+- Python 3.7
 - pytorch == 1.13.1
 - numpy == 1.21.5
 - pandas == 1.3.5
